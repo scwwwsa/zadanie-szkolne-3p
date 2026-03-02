@@ -32,4 +32,4 @@ W projekcie wykorzystano:
 
 🗂 Git & GitHub
 #projekt szkolny
-<img width="225" height="225" alt="obraz" src="https://github.com/user-attachments/assets/c783558e-db64-4bcc-aaf4-afeacac7573c" />
+

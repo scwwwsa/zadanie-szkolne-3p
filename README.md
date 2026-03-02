@@ -1,7 +1,7 @@
 🎓 zadanie-szkolne-3p
 
 🏫 Projekt wykonany w ramach nauki w technikum informatycznym
-👨‍💻 Autor: [Twoje Imię i Nazwisko]
+👨‍💻 Autor: Wszycy
 📅 Rok szkolny: 2025/2026
 📚 Klasa: 3P
 
@@ -30,4 +30,6 @@ W projekcie wykorzystano:
 
 ⚙️ JavaScript
 
-🗂 Git & GitHub#projekt szkolny
+🗂 Git & GitHub
+#projekt szkolny
+<img width="225" height="225" alt="obraz" src="https://github.com/user-attachments/assets/c783558e-db64-4bcc-aaf4-afeacac7573c" />

@@ -20,7 +20,8 @@ Projekt skupia się na:
 
 ✅ samodzielnym rozwiązywaniu problemów
 
-🛠 Technologie
+🛠 Technologie<img width="153" height="528" alt="obraz" src="https://github.com/user-attachments/assets/5a1d5ac6-f1fd-4d08-8813-34ac02ade2ae" />
+
 
 W projekcie wykorzystano:
 
